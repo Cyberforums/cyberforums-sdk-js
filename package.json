@@ -1,0 +1,17 @@
+{
+  "name": "@cyberforums/sdk",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Cyberforums JS/TS reference SDK over BFF open API",
+  "type": "module",
+  "main": "src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "echo \"stub: add tsc when ready\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
